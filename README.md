@@ -5,11 +5,8 @@
 
 - 🔐 User authentication (JWT)  
 - 👤 One-to-one chats  
-- 👥 Group chats  
 - 📡 Real-time messaging with Socket.IO  
-- 💾 Message persistence in MongoDB  
-- 🎨 Responsive UI with React  
-
+- 💾 Message persistence in MongoDB    
 ---
 
 ## 🛠️ Tech Stack
